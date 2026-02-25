@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="places_to_visit_in_tunisia">PLACES TO VISIT IN TUNISIA</string>
+    <string name="next">NEXT</string>
+    <string name="close">CLOSE</string>
+    <string name="skip">SKIP</string>
+</resources>
